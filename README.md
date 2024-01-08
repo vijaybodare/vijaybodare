@@ -1,11 +1,11 @@
 ![logo](https://github.com/vijaybodare/vijaybodare/blob/main/github-header-banner.png)
 <!--<h1 align="center">Hi 👋, I'm Vijay Bodare</h1>-->
 <h1 align="center">A passionate Software Developer from India</h1>
-<img align="right" alt="coding" height="300" width="550" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="coding" height="300" width="570" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaybodare&label=Profile%20views&color=0e75b6&style=flat" alt="vijaybodare" /> </p>
 
-- 📫 How to reach me :---- 📧 vjbodare1080@gmail.com
+- 📫 How to reach me :--&nbsp;&nbsp;&nbsp;&nbsp; 📧 vjbodare1080@gmail.com
 
 -  <a href="https://drive.google.com/file/d/1DMqdMX51fS1ZLkEUsccYI3R-0YnajRlo/view?usp=sharing](https://drive.google.com/file/d/1DMqdMX51fS1ZLkEUsccYI3R-0YnajRlo/view?usp=sharing" target="blank">📄 Know about my experiences 📖</a>
 
