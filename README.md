@@ -1,6 +1,6 @@
-<!--![logo](./github-header-image.png)-->
-<h1 align="center">Hi 👋, I'm Vijay Bodare</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+![logo](https://github.com/vijaybodare/vijaybodare/blob/main/github-header-banner.png)
+<!--<h1 align="center">Hi 👋, I'm Vijay Bodare</h1>-->
+<h1 align="center">A passionate Software Developer from India</h1>
 <img align="right" alt="coding" height="300" width="600" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaybodare&label=Profile%20views&color=0e75b6&style=flat" alt="vijaybodare" /> </p>
