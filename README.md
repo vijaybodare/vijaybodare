@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaybodare&label=Profile%20views&color=0e75b6&style=flat" alt="vijaybodare" /> </p>
 
-- 📫 How to reach me :--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 vjbodare1080@gmail.com
+- 📫 How to reach me :-- 📧 vjbodare1080@gmail.com
 
--  <a href="https://drive.google.com/file/d/1DMqdMX51fS1ZLkEUsccYI3R-0YnajRlo/view?usp=sharing](https://drive.google.com/file/d/1DMqdMX51fS1ZLkEUsccYI3R-0YnajRlo/view?usp=sharing" target="blank">📄 Know about my experiences 📖</a>
+-  <a href="https://drive.google.com/drive/folders/1DFMAAeI9eLkD17_zjrfdAMBc_lsS3H73" target="blank">📄 Know about my experiences 📖</a>
 
 - ⚡ Fun fact, I am funny 👼
 
